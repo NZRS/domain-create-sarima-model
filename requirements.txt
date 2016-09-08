@@ -1,0 +1,7 @@
+python-dateutil==2.5.3
+statsmodels==0.8.0
+NumPy>=1.5.1
+SciPy>=0.9.0
+Pandas>=0.7.1
+Patsy>=0.3.0
+Matplotlib>=1.1
